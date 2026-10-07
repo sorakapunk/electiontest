@@ -3,17 +3,19 @@
     "key": "PAROQUIAL BERNARDO SAYAO",
     "name": "COLEGIO PAROQUIAL BERNARDO SAYAO",
     "address": "AVENIDA MARANHAO - ESQUINA COM RUA 11",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7270977,
+    "lon": -49.0622086,
+    "verified": false,
+    "result": "Escola Estadual Fé e Alegria Paroquial Bernardo Sayão, 1327, Avenida Maranhão, Jardim Eldorado, Gurupi, Tocantins, Região Norte, 77410-020, Brasil"
   },
   {
     "key": "POSITIVO DE GURUPI",
     "name": "COLEGIO POSITIVO DE GURUPI",
     "address": "AVENIDA CEARA - ENTRE RUAS 03 E 04",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7317915,
+    "lon": -49.0626604,
+    "verified": false,
+    "result": "Colégio Estadual Positivo de Gurupi, 1641, Avenida Ceará, Jardim Eldorado, Gurupi, Tocantins, Região Norte, 77410-050, Brasil"
   },
   {
     "key": "UNIVERSITARIO UNIRG",
@@ -59,25 +61,28 @@
     "key": "VILA GUARACY",
     "name": "COLEGIO ESTADUAL VILA GUARACY",
     "address": "RUA A , SN",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.740041,
+    "lon": -49.0795608,
+    "verified": false,
+    "result": "Escola Estadual Vila Guaracy, 91, Rua A, Setor Daniela, Gurupi, Tocantins, Região Norte, 77423-450, Brasil"
   },
   {
     "key": "MEDIO ARY RIBEIRO VALADAO FILHO",
     "name": "CENTRO DE ENSINO MEDIO ARY RIBEIRO VALADÃO FILHO",
     "address": "RUA H, S/N",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7355423,
+    "lon": -49.0792818,
+    "verified": false,
+    "result": "Centro de Ensino Médio Ary Ribeiro Valadão Filho, 486, Rua M, Jardim Eldorado, Gurupi, Tocantins, Região Norte, 77423-410, Brasil"
   },
   {
     "key": "ODAIR LUCIO",
     "name": "ESCOLA MUNICIPAL ODAIR LUCIO",
     "address": "AVENIDA MINAS GERAIS, S/N, ESQUINA COM RUA 20 - JARDIM TROPICAL",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7232429,
+    "lon": -49.081022,
+    "verified": false,
+    "result": "Escola Municipal de Tempo Integral Odair Lucio, 2348, Avenida Minas Gerais, Jardim Eldorado, Gurupi, Tocantins, Região Norte, 77410-280, Brasil"
   },
   {
     "key": "ANTONIO LINO DE SOUZA",
@@ -99,9 +104,10 @@
     "key": "ORLINDO PEREIRA DA MOTA",
     "name": "ESCOLA ORLINDO PEREIRA DA MOTA",
     "address": "RUA 21, ENTRE H E X, SETOR UNIAO V (ANTIGA CASEGO)",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7396368,
+    "lon": -49.0691241,
+    "verified": false,
+    "result": "Escola Municipal Orlindo Pereira da Mota, 238, Rua X, Santa Cruz, Gurupi, Tocantins, Região Norte, 77413-770, Brasil"
   },
   {
     "key": "JOSE SEABRA LEMOS",
@@ -115,17 +121,19 @@
     "key": "ANTONIO DE ALMEIDA VERAS",
     "name": "ESCOLA MUNICIPAL ANTONIO DE ALMEIDA VERAS",
     "address": "AVENIDA BRASILIA, S/N, ENTRE AS RUAS 15 E 16",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7304173,
+    "lon": -49.0535454,
+    "verified": false,
+    "result": "Escola Municipal Antonio de Almeida Veras, 1243, Avenida Brasília, Gurupi, Tocantins, Região Norte, 77410-090, Brasil"
   },
   {
     "key": "GILBERTO REZENDE ROCHA FILHO",
     "name": "ESCOLA MUNICIPAL GILBERTO REZENDE ROCHA FILHO",
     "address": "RUA A, ESQUINA COM PERIMETRAL OESTE, SETOR PEDROSO",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.716602,
+    "lon": -49.0869149,
+    "verified": false,
+    "result": "Escola Municipal Gilberto Rezende Rocha Filho, 111, Rua A, João Lisboa da Cruz, Gurupi, Tocantins, Região Norte, 77405-370, Brasil"
   },
   {
     "key": "JOEL FERREIRA SOARES",
@@ -139,41 +147,46 @@
     "key": "VILA NOVA",
     "name": "ESCOLA MUNICIPAL VILA NOVA",
     "address": "AVENIDA PERIMENTRAL NORTE - SETOR VILA NOVA",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7112491,
+    "lon": -49.04782,
+    "verified": false,
+    "result": "Escola Municipal Vila Nova, 858, Rua Perimetral Norte, Gurupi, Tocantins, Região Norte, 77440-440, Brasil"
   },
   {
     "key": "DOMINGOS BARREIRA DE AMORIM",
     "name": "ESCOLA MUNICIPAL DOMINGOS BARREIRA DE AMORIM",
     "address": "RUA 110, QD PMG/ D. NRO 435.",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7219601,
+    "lon": -49.0971555,
+    "verified": false,
+    "result": "Escola Municipal Domingos Barreira de Amorim, 435, Rua 110, Park dos Buritis, Gurupi, Tocantins, Região Norte, 77430-720, Brasil"
   },
   {
     "key": "JOSE PEREIRA DA CRUZ",
     "name": "ESCOLA MUNICIPAL JOSE PEREIRA DA CRUZ",
     "address": "RUA CORSEGA, S/N",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7384781,
+    "lon": -49.0489638,
+    "verified": false,
+    "result": "Rua Córsega, Gurupi, Tocantins, Região Norte, 77410-540, Brasil"
   },
   {
     "key": "DR JOAQUIM PEREIRA DA COSTA",
     "name": "ESCOLA ESTADUAL DR JOAQUIM PEREIRA DA COSTA",
     "address": "RUA S - 16 , QD L , S/N",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7273342,
+    "lon": -49.0951892,
+    "verified": false,
+    "result": "Escola Estadual Dr Joaquim Pereira da Costa, SN, Rua S9, Park dos Buritis, Gurupi, Tocantins, Região Norte, 77425-170, Brasil"
   },
   {
     "key": "SETOR AEROPORTO",
     "name": "ESCOLA ESTADUAL SETOR AEROPORTO",
     "address": "RUA 21 DE OUTUBRO, N 48 -SETOR AEROPORTO",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7157444,
+    "lon": -49.0558776,
+    "verified": false,
+    "result": "Escola Estadual Setor Aeroporto, 497, Avenida Vinte e Um de Outubro, Gurupi, Tocantins, Região Norte, 77440-650, Brasil"
   },
   {
     "key": "PROFA ILZA BORGES VIEIRA ANTIGO COL CUSTODIO RIBEIRO",
@@ -187,17 +200,19 @@
     "key": "DR ULISSES GUIMARAES",
     "name": "ESCOLA MUNICIPAL DR ULISSES GUIMARAES",
     "address": "RUA A7, QUADRA 08, S/N",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7307422,
+    "lon": -49.1153923,
+    "verified": false,
+    "result": "Escola Municipal Dr Ulisses Guimarães, 981, Rua A 07, Parque das Acácias, Gurupi, Tocantins, Região Norte, 77425-520, Brasil"
   },
   {
     "key": "ELIZEU DE CARVALHO",
     "name": "ESCOLA MUNICIPAL ELIZEU DE CARVALHO",
     "address": "AVENIDA TANCREDO NEVES ESQUINA COM RUA CAJANDU, S/N",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.6404097,
+    "lon": -49.0398759,
+    "verified": false,
+    "result": "Escola Municipal de Tempo Integral Elizeu de Carvalho, 490, BR-153, Gurupi, Tocantins, Região Norte, 77445-340, Brasil"
   },
   {
     "key": "ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS APAE",
@@ -251,9 +266,10 @@
     "key": "CEMEI ONEIDE DE SOUZA COELHO",
     "name": "CEMEI ONEIDE DE SOUZA COELHO",
     "address": "RUA 9, N. 674, QD 51",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7391294,
+    "lon": -49.0897889,
+    "verified": false,
+    "result": "Rua Nove, Setor Daniela, Gurupi, Tocantins, Região Norte, 77423-160, Brasil"
   },
   {
     "key": "CRECHE CEMEI TANIA SCOTTA",
@@ -275,9 +291,10 @@
     "key": "WALDIR LINS",
     "name": "COLEGIO ESTADUAL WALDIR LINS",
     "address": "RUA 08, S/N",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7380804,
+    "lon": -49.0876638,
+    "verified": false,
+    "result": "Escola Estadual Valdir Lins, 451, Rua Oito, Setor Daniela, Gurupi, Tocantins, Região Norte, 77423-160, Brasil"
   },
   {
     "key": "PROFA ILZA BORGES VIEIRA",
@@ -299,8 +316,9 @@
     "key": "INSTITUTO EDUCACIONAL PASSO A PASSO",
     "name": "INSTITUTO EDUCACIONAL PASSO A PASSO",
     "address": "AV. RORAIMA",
-    "lat": null,
-    "lon": null,
-    "verified": false
+    "lat": -11.7232122,
+    "lon": -49.084354,
+    "verified": false,
+    "result": "Instituto Educacional Passo a Passo, SN, Avenida Fernando de Noronha, Jardim Eldorado, Gurupi, Tocantins, Região Norte, 77403-040, Brasil"
   }
 ]
